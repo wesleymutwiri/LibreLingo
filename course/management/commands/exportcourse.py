@@ -122,7 +122,7 @@ def export_course(course):
             print("Exporting skill {}".format(str(skill)))
             export_skill(export_path, skill)
             for learnword in skill.learnword_set.all():
-                audios_to_fetch.append(learnword.formInTargetLanguage)
+                audios_to_fetch.append("{}|{}".format(language_id, learnword.formInTargetLanguage))
 
     with open(Path(export_path) / ".." / ".." / ".." / "src" / "audios_to_fetch.csv", 'w', encoding='utf-8') as f:
         f.write("\n".join(audios_to_fetch))
