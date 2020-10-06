@@ -300,6 +300,60 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "wesleymutwiri",
+      "name": "Wesley Mutwiri",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/36151585?v=4",
+      "profile": "https://github.com/wesleymutwiri",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sesam",
+      "name": "Simon B.",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8921?v=4",
+      "profile": "https://github.com/sesam",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "karthikshetty03",
+      "name": "Karthik Shetty",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45932358?v=4",
+      "profile": "https://github.com/karthikshetty03",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "joshyide",
+      "name": "Joshua Ide",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25023919?v=4",
+      "profile": "https://github.com/joshyide",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jobedylbas",
+      "name": "Jobe Dylbas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13896705?v=4",
+      "profile": "https://github.com/jobedylbas",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DavidLuterancik",
+      "name": "Dávid Kristián Luterančík",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72352073?v=4",
+      "profile": "https://github.com/DavidLuterancik",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
